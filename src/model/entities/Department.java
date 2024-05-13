@@ -12,7 +12,7 @@ public class Department implements Serializable {
 		
 	}
 
-	public Department(int id, String name) {
+	public Department(Integer id, String name) {
 		super();
 		this.id = id;
 		this.name = name;
